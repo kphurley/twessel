@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "twitter": "^1.4.0"
+    "rfid-pn532": "^0.1.9",
+    "twitter": "^1.4.0",
+    "servo-pca9685": "^0.1.3"
   }
 }
